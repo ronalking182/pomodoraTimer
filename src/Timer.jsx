@@ -6,7 +6,7 @@ import SettingsButton from "./settingsBtn";
 import {useContext, useState, useEffect, useRef} from "react";
 import SettingsContext from "./SettingsContext";
 
-const red = '#f54e4e';
+const red = 'orange';
 const green = '#4aec8c';
 
 function Timer() {
