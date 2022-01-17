@@ -1,0 +1,40 @@
+.workTime{
+display: flex;
+flex-direction: column;
+}
+
+
+.btnCon{
+    margin-top: 10px;
+
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100px;
+    height: 40px;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.horizontal-slider{
+    border: 1px solid black;
+    height: 30px;
+    /* border-radius: 15px; */
+}
+
+.example-track{
+    /* border: 1px solid black;
+    height: 30px;  
+    width: 15%;  */
+}
+.example-thumb{
+    border: 1px solid black; 
+    width: 13%; 
+    /* border-radius: 15px; */
+    height: 30px;
+}
+
+.el{
+    width: 200px;
+    height: 50%;
+}
